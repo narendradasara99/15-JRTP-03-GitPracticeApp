@@ -22,6 +22,7 @@ public class Test {
 		
 		
 		System.out.println(" just practicing purpose");
+		System.out.println(" another");
 
 	}
 
