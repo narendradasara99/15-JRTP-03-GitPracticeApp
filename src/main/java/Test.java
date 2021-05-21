@@ -6,6 +6,11 @@ public class Test {
                  System.out.println(" some extra changes 2");   
 
 	}
+	public void m3() {
+		System.out.println(" some extra changes");
+                 System.out.println(" some extra changes stash command example");   
+
+	}
 
 	public static void main(String[] args) {
 		
