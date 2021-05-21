@@ -11,6 +11,11 @@ public class Test {
                  System.out.println(" some extra changes stash command example");   
 
 	}
+	
+	
+	public String wish() {
+		return "good morning";
+	}
 
 	public static void main(String[] args) {
 		
