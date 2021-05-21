@@ -16,6 +16,7 @@ public class Test {
 	public String wish() {
 		return "good morning";
 	}
+	
 
 	public static void main(String[] args) {
 		
