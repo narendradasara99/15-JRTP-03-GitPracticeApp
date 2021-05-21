@@ -20,7 +20,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		
+		System.out.println("stashing");
 		System.out.println(" just practicing purpose");
 		System.out.println(" another");
 
